@@ -21,7 +21,7 @@ I am an 18-year-old currently pursuing a career in software development through 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 
   <!-- Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
@@ -39,27 +39,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or check o
 
 ---
 
-### Typing Animation CSS
-
-```html
-<style>
-.typing::after {
-  content: "Hello, I'm Atakan Özkan, a 18-year-old currently pursuing a career in software development through an apprenticeship.";
-  white-space: nowrap;
-  overflow: hidden;
-  display: inline-block;
-  animation: typing 4s steps(60, end), blink 0.75s step-end infinite;
-  border-right: 2px solid;
-}
-
-@keyframes typing {
-  from {
-    width: 0;
-  }
-  to {
-    width: 100%;
-  }
-}
 
 @keyframes blink {
   50% {
