@@ -12,7 +12,7 @@
 
 I am an 18-year-old currently pursuing a career in software development through an apprenticeship.
 
-## Languages I use:
+## Languages & frameworks I use:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
