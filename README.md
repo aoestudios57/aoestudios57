@@ -1,7 +1,7 @@
 <h2 align="center">Welcome to AOESTUDIOS 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=%2C+I'm+Atakan+%C3%96zkan!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=I'm+Atakan+%C3%96zkan!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <div align="center">
