@@ -62,11 +62,13 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=aoestudios57&show_icons=true" />
   </picture>
-  <picture>
+  <div align="center" >
+    <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aoestudios57&layout=compact"
       media="(prefers-color-scheme: dark)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoestudios57&layout=compact" />
   </picture>
+  </div>
 </div>
