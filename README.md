@@ -74,7 +74,7 @@ I am an 18-year-old currently pursuing a career in software development through 
     srcset="[https://github-readme-stats.vercel.app/api?username=aoestudios57&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)"
     media="(prefers-color-scheme: dark)"
   />
-  
+  </picture>
 </div>
 
 
