@@ -1,5 +1,13 @@
 # Hello, I'm Atakan Özkan! 👋
 
+<div align="center">
+  <h2>
+    <a href="https://github.com/your-github-profile">
+      <span class="typing"></span>
+    </a>
+  </h2>
+</div>
+
 I am an 18-year-old currently pursuing a career in software development through an apprenticeship.
 
 ## Languages and Tools I use:
@@ -11,15 +19,14 @@ I am an 18-year-old currently pursuing a career in software development through 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  
+
   <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="Blazor" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maui/maui-original.svg" alt=".NET MAUI" width="40" height="40"/>
-  
+  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_maui.svg" alt=".NET MAUI" width="40" height="40"/>
+
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" width="40" height="40"/>
@@ -29,3 +36,34 @@ I am an 18-year-old currently pursuing a career in software development through 
 </p>
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or check out my [GitHub Repositories](https://github.com/your-github-profile).
+
+---
+
+### Typing Animation CSS
+
+```html
+<style>
+.typing::after {
+  content: "Hello, I'm Atakan Özkan, a 18-year-old currently pursuing a career in software development through an apprenticeship.";
+  white-space: nowrap;
+  overflow: hidden;
+  display: inline-block;
+  animation: typing 4s steps(60, end), blink 0.75s step-end infinite;
+  border-right: 2px solid;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes blink {
+  50% {
+    border-color: transparent;
+  }
+}
+</style>
