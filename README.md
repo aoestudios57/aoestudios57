@@ -53,7 +53,7 @@ I am an 18-year-old currently pursuing a career in software development through 
 
 </p>
 
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aoestudios57)](https://github.com/aoestudios57/github-readme-stats)
 ---
 
 
