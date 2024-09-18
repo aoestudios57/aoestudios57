@@ -14,7 +14,7 @@
 
 I am an 18-year-old currently pursuing a career in software development through an apprenticeship.
 
-## ⚒️ Languages & frameworks ⚒️
+<h2 align="center">⚒️ Languages & frameworks ⚒️</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
@@ -35,7 +35,7 @@ I am an 18-year-old currently pursuing a career in software development through 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
-## ⚒️ Tools ⚒️ 
+ <h2 align="center">⚒️ Tools ⚒️</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
