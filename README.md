@@ -56,11 +56,17 @@ I am an 18-year-old currently pursuing a career in software development through 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-
-[![](https://raw.githubusercontent.com/aoestudios57/github-profile-summary-cards-example/master/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/aoestudios57/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/aoestudios57/github-profile-summary-cards-example/master/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/aoestudios57/github-profile-summary-cards) [![](https://raw.githubusercontent.com/aoestudios57/github-profile-summary-cards-example/master/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/aoestudios57/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/aoestudios57/github-profile-summary-cards-example/master/profile-summary-card-output/radical/3-stats.svg)](https://github.com/aoestudios57/github-profile-summary-cards) [![](https://raw.githubusercontent.com/aoestudios57/github-profile-summary-cards-example/master/profile-summary-card-output/radical/4-productive-time.svg)](https://github.com/aoestudios57/github-profile-summary-cards)
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=aoestudios57&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=aoestudios57&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aoestudios57&show_icons=true" />
+</picture>
 </div>
 
 
