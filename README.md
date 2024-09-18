@@ -24,6 +24,13 @@ I am an 18-year-old currently pursuing a career in software development through 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+
 </p>
 
 ## Tools I use:
@@ -40,27 +47,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or check o
 
 ---
 
-### Typing Animation CSS
-
-```html
-<style>
-.typing::after {
-  content: "Hello, I'm Atakan Özkan, a 18-year-old currently pursuing a career in software development through an apprenticeship.";
-  white-space: nowrap;
-  overflow: hidden;
-  display: inline-block;
-  animation: typing 4s steps(60, end), blink 0.75s step-end infinite;
-  border-right: 2px solid;
-}
-
-@keyframes typing {
-  from {
-    width: 0;
-  }
-  to {
-    width: 100%;
-  }
-}
 
 @keyframes blink {
   50% {
