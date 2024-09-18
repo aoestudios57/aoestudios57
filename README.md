@@ -46,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="XAMPP" width="40" height="40"/>
   <img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="phpMyAdmin" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
