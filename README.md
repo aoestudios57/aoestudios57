@@ -12,7 +12,7 @@
   </h2>
 </div>
 
-I am an 18-year-old currently pursuing a career in software development through an apprenticeship.
+
 
 <h2 align="center">⚒️ Languages & frameworks ⚒️</h2>
 
