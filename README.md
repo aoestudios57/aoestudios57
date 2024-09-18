@@ -67,12 +67,8 @@ I am an 18-year-old currently pursuing a career in software development through 
   />
   <img src="https://github-readme-stats.vercel.app/api?username=aoestudios57&show_icons=true" />
 </picture>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoestudios57&layout=pie)](https://github.com/aoestudios57/github-readme-stats)
 </div>
 
 
-@keyframes blink {
-  50% {
-    border-color: transparent;
-  }
-}
-</style>
+
